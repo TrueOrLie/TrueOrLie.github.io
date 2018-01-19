@@ -1,7 +1,7 @@
 # TrueOrLie의 블로그에 오신것을 환영합니다.
 
 * ## 개발중인 프로젝트 
-  ## * [CPP를 이용한 콘솔RPG](https://github.com/TrueOrLie/RPGGaming)
+    * [CPP를 이용한 콘솔RPG](https://github.com/TrueOrLie/RPGGaming)
   
 
 * ## 수업자료
