@@ -9,8 +9,8 @@
 
 
 * ## 자료
-  * Github관련
-    * [회복맨의 GitHubBlog 만들기](http://recoveryman.tistory.com/321?category=635733)
+  * ### Github관련
+    * #### [회복맨의 GitHubBlog 만들기](http://recoveryman.tistory.com/321?category=635733)
     * [마크다운(.MD) 문법](http://blog.hyeyoonjung.com/2017/05/30/how-to-use-markdown/)
    
 * ### 정리할 문서
